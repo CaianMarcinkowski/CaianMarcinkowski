@@ -11,6 +11,12 @@
 <a href="https://instagram.com/marcinkowski__" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcinkowski__" height="30" width="40" />
   </a>
+  <a href="https://linkedin.com/in/caian marcinkowski ferreira" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caian marcinkowski ferreira" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/Marcinkowski#1807" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Marcinkowski#1807" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
