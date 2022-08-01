@@ -69,7 +69,7 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caianmarcinkowski&show_icons=true&locale=en&layout=compact" alt="caianmarcinkowski" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CaianMarcinkowski&show_icons=true&locale=en&layout=compact" alt="CaianMarcinkowski" />
 </p>
 
   <br>
@@ -79,5 +79,5 @@
   <br>
 
 <p>&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=caianmarcinkowski&show_icons=true&locale=en" alt="caianmarcinkowski" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=CaianMarcinkowski&show_icons=true&locale=en" alt="caianmarcinkowski" />
 </p>
