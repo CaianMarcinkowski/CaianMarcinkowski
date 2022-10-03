@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caian Marcinkowski Ferreira</h1>
-<h3 align="center">A back-end and Mobile developer from Brazil</h3>
+<h3 align="center">A Back-end and Mobile developer from Brazil</h3>
 
 - 📫 How to reach me **caianferre@gmail.com**
 
