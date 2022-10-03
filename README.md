@@ -67,6 +67,7 @@
   </a> 
 </p>
 <br>
-<p>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=CaianMarcinkowski&show_icons=true&locale=en" alt="caianmarcinkowski" />
+<p align="center" >&nbsp;
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CaianMarcinkowski&show_icons=true&locale=en" alt="caianmarcinkowski" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaianMarcinkowski&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
