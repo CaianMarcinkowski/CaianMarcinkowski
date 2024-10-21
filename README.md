@@ -14,9 +14,6 @@
   <a href="https://www.linkedin.com/in/caian-marcinkowski-ferreira-bb541a137/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caian marcinkowski ferreira" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/Marcinkowski#1807" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Marcinkowski#1807" height="30" width="40" />
-  </a>
 </p>
 
 <h3 align="center">Linguagens e Ferramentas:</h3>
@@ -108,12 +105,15 @@ Eu sou um desenvolvedor apaixonado por tecnologia, com experiência em uma varie
 
 ## Educação
 
-- **Bacharelado em Ciência da Computação** - Universidade Uniritter - Em progresso
-- **Certificação em Desenvolvimento JAVA** - Bootcamp DIO - Em progresso
+- **Bacharelado em Ciência da Computação** - Universidade UNIRITTER - Em progresso
 - **Certificação em Técnico em TI** - Escolas e faculdades QI 
 
 ## Contribuições no GitHub
 
+[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaianMarcinkowski&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaianMarcinkowski&layout=compact&langs_count=7&theme=tokyonight"/>
+
 [![Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=CaianMarcinkowski&show_icons=true&locale=en)](https://github.com/CaianMarcinkowski)
 <br>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaianMarcinkowski&layout=compact&langs_count=7&theme=tokyonight"/>
+
