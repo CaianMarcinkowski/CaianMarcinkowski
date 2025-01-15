@@ -17,6 +17,7 @@
 </p>
 
 <h3 align="center">Linguagens e Ferramentas:</h3>
+
 <p align="center">
   <h3 align="center">Back-End</h3>
   <p align="center"> 
@@ -55,6 +56,9 @@
     <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> 
     </a> 
+    <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+    </a>
   </p>
   
   <h3 align="center">IoT</h3>
@@ -89,6 +93,13 @@ Eu sou um desenvolvedor apaixonado por tecnologia, com experiência em uma varie
 
 ## Experiência Profissional
 
+- **Freedom Veiculos Eletricos** (Analista e Desenvolvedor)
+  * Flutter
+  * SQlite
+  * C
+  * FTDI
+  * Android
+
 - **Empresa MAVEN** (Desenvolvedor)
   * Java e Javascript
   * Solr
@@ -97,10 +108,10 @@ Eu sou um desenvolvedor apaixonado por tecnologia, com experiência em uma varie
   * Linux
 
 - **Empresa ECORE** (Especialista em TI)
-  * Suporte a usuários ;
-  * Desenvolvedor Backend (Node.js, Java e PHP);
-  * Desenvolvedor Frontend (REACT);
-  * Manutenção em banco de dados (MySQL e Postgres);
+  * Suporte a usuários
+  * Desenvolvedor Backend (Node.js, Java e PHP)
+  * Desenvolvedor Frontend (REACT)
+  * Manutenção em banco de dados (MySQL e Postgres)
   * Criador do app de gestão Fitoapp da empresa Fitolog (https://play.google.com/store/apps/details?id=com.fitoapp&hl=pt_BR&gl=US);
 
 ## Educação
@@ -110,10 +121,7 @@ Eu sou um desenvolvedor apaixonado por tecnologia, com experiência em uma varie
 
 ## Contribuições no GitHub
 
-[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaianMarcinkowski&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
-
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaianMarcinkowski&layout=compact&langs_count=7&theme=tokyonight"/>
 
 [![Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=CaianMarcinkowski&show_icons=true&locale=en)](https://github.com/CaianMarcinkowski)
 <br>
-
