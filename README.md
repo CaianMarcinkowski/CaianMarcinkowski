@@ -1,85 +1,67 @@
-<h1 align="center">Olá! 👋 Sou Caian Marcinkowski Ferreira</h1>
-<h3 align="center">Desenvolvedor Full-Stack e Mobile do Brasil</h3>
+<h1 align="center">Olá! 👋 Eu sou Caian Marcinkowski Ferreira</h1>
+<h3 align="center">
+Analista e Desenvolvedor de Sistemas
+</h3>
 
-- 📫 Como entrar em contato comigo **caianferre@gmail.com**
-
-<h3 align="center">Conecte-se comigo:</h3>
 <p align="center">
-  <a href="https://stackoverflow.com/users/caian-marcinkowski-ferreira" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="caian marcinkowski ferreira" height="30" width="40" />
+Desenvolvedor com experiência em aplicações móveis, sistemas backend, integração com hardware e publicação de apps na Google Play.
+</p>
+
+<p align="center">
+📫 Contato: <strong>caianferre@gmail.com</strong>
+</p>
+
+---
+
+<h3 align="center">🌐 Conecte-se comigo</h3>
+<p align="center">
+  <a href="https://stackoverflow.com/users/caian-marcinkowski-ferreira" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/marcinkowski__" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcinkowski__" height="30" width="40" />
+  <a href="https://instagram.com/marcinkowski__" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/caian-marcinkowski-ferreira-bb541a137/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caian marcinkowski ferreira" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/caian-marcinkowski-ferreira-bb541a137/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="center">Linguagens e Ferramentas:</h3>
+---
 
+<h3 align="center">🛠️ Tecnologias & Ferramentas</h3>
+
+<h4 align="center">Back-end</h4>
 <p align="center">
-  <h3 align="center">Back-End</h3>
-  <p align="center"> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-    </a> 
-  </p>
-  
-  <h3 align="center">Bancos de Dados</h3>
-  <p align="center"> 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-    </a> 
-  </p>     
-  
-  <h3 align="center">Mobile</h3>   
-  <p align="center"> 
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-    </a> 
-    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> 
-    </a> 
-    <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-    </a>
-  </p>
-  
-  <h3 align="center">IoT</h3>
-  <p align="center"> 
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-    </a> 
-  </p>
-  
-  <h3 align="center">Versionamento e Testes</h3>
-  <p align="center"> 
-    <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-    </a> 
-  </p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+</p>
+
+<h4 align="center">Bancos de Dados</h4>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+</p>
+
+<h4 align="center">Mobile</h4>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
+</p>
+
+<h4 align="center">IoT & Hardware</h4>
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+</p>
+
+<h4 align="center">Versionamento, CI/CD & Testes</h4>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
 </p>
 
 ---
@@ -90,35 +72,39 @@ Eu sou um desenvolvedor apaixonado por tecnologia, com experiência em uma varie
 
 ## Experiência Profissional
 
-- **Freedom Veiculos Eletricos** (Analista e Desenvolvedor)
-  * Flutter
-  * SQlite
-  * C
-  * FTDI
-  * Android
+### **Freedom Veículos Elétricos — Analista e Desenvolvedor**
+- Desenvolvimento de aplicações móveis **Android** utilizando **Flutter**
+- Persistência de dados e gerenciamento local com **SQLite**
+- Desenvolvimento em **C** para integração com hardware embarcado
+- Comunicação USB/Serial utilizando **FTDI**
+- **Gestão completa de aplicativos na Google Play Console** (publicação, versionamento, testes internos e monitoramento)
+- Implementação de **CI/CD e workflows automatizados com GitHub Actions**, otimizando processos de build e deploy
+- link: https://play.google.com/store/apps/details?id=br.ind.freedom.freedom_connect&hl=pt_BR
 
-- **Empresa MAVEN** (Desenvolvedor)
-  * Java e Javascript
-  * Solr
-  * DB Oracle e SQL
-  * Git, GitKraken and AWS CodeCommit
-  * Linux
+---
 
-- **Empresa ECORE** (Especialista em TI)
-  * Suporte a usuários
-  * Desenvolvedor Backend (Node.js, Java e PHP)
-  * Desenvolvedor Frontend (REACT)
-  * Manutenção em banco de dados (MySQL e Postgres)
-  * Criador do app de gestão Fitoapp da empresa Fitolog (https://play.google.com/store/apps/details?id=com.fitoapp&hl=pt_BR&gl=US);
+### **Empresa MAVEN — Analista e Desenvolvedor**
+- Desenvolvimento de sistemas utilizando **Java e JavaScript**
+- Implementação e manutenção de mecanismos de busca com **Apache Solr**
+- Modelagem, consultas e manutenção de bancos de dados **Oracle e SQL**
+- Controle de versão e colaboração utilizando **Git, GitKraken e AWS CodeCommit**
+- Desenvolvimento e suporte em ambientes **Linux**
+
+---
+
+### **Empresa ECORE — Especialista em TI**
+- Suporte técnico a usuários e ambientes corporativos
+- Desenvolvimento **Backend** utilizando **Node.js, Java e PHP**
+- Desenvolvimento **Frontend** com **React**
+- Manutenção, otimização e consultas em bancos de dados **MySQL e PostgreSQL**
+- **Criação e desenvolvimento do aplicativo de gestão *FitoApp*** para a empresa **Fitolog**
+  - Gestão completa de aplicativos na **Google Play Console**
+  - Link: https://play.google.com/store/apps/details?id=com.fitoapp&hl=pt_BR&gl=US
+
+---
 
 ## Educação
 
 - **Bacharelado em Ciência da Computação** - Universidade UNIRITTER - Em progresso
 - **Certificação em Técnico em TI** - Escolas e faculdades QI 
 
-## Contribuições no GitHub
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaianMarcinkowski&layout=compact&langs_count=7&theme=tokyonight"/>
-
-[![Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=CaianMarcinkowski&show_icons=true&locale=en)](https://github.com/CaianMarcinkowski)
-<br>
