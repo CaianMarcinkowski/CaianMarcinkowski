@@ -28,41 +28,21 @@ Desenvolvedor com experiência em aplicações móveis, sistemas backend, integr
 
 ---
 
-<h3 align="center">🛠️ Tecnologias & Ferramentas</h3>
+## 🛠️ Tecnologias & Ferramentas
 
-<h4 align="center">Back-end</h4>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-</p>
+<div align="center">
 
-<h4 align="center">Bancos de Dados</h4>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-</p>
+| Área | Tecnologias |
+|:--:|:--:|
+| **Back-end** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="35"/> |
+| **Bancos de Dados** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="35"/> |
+| **Mobile** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="35"/> |
+| **IoT & Hardware** | <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="35"/> |
+| **Versionamento, CI/CD & Testes** | <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="35"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="35"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="35"/> |
 
-<h4 align="center">Mobile</h4>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
-</p>
+</div>
 
-<h4 align="center">IoT & Hardware</h4>
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-</p>
 
-<h4 align="center">Versionamento, CI/CD & Testes</h4>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-</p>
 
 ---
 
