@@ -6,8 +6,6 @@ Desenvolvedor com experiência em aplicações móveis, sistemas backend, integr
 
 ## 📫 Contato: <strong>caianferre@gmail.com</strong>
 
----
-
 ## 🌐 Conecte-se comigo 
 
 <p align="center">
@@ -21,8 +19,6 @@ Desenvolvedor com experiência em aplicações móveis, sistemas backend, integr
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
 </p>
-
----
 
 ## 🛠️ Tecnologias & Ferramentas
 
