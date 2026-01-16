@@ -1,19 +1,15 @@
-<h1 align="center">Olá! 👋 Eu sou Caian Marcinkowski Ferreira</h1>
-<h3 align="center">
-Analista e Desenvolvedor de Sistemas
-</h3>
+<h1 align="center">Caian Marcinkowski Ferreira - Analista e Desenvolvedor de Sistemas</h1>
 
 <p align="center">
 Desenvolvedor com experiência em aplicações móveis, sistemas backend, integração com hardware e publicação de apps na Google Play.
 </p>
 
-<p align="center">
-📫 Contato: <strong>caianferre@gmail.com</strong>
-</p>
+## 📫 Contato: <strong>caianferre@gmail.com</strong>
 
 ---
 
-<h3 align="center">🌐 Conecte-se comigo</h3>
+## 🌐 Conecte-se comigo 
+
 <p align="center">
   <a href="https://stackoverflow.com/users/caian-marcinkowski-ferreira" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
@@ -42,15 +38,13 @@ Desenvolvedor com experiência em aplicações móveis, sistemas backend, integr
 
 </div>
 
-
-
 ---
 
-## Sobre Mim
+## 💻 Sobre Mim
 
 Eu sou um desenvolvedor apaixonado por tecnologia, com experiência em uma variedade de linguagens de programação e tecnologias. Atualmente, estou focado no desenvolvimento Full-Stack e Mobile, trabalhando em projetos desafiadores e interessantes.
 
-## Experiência Profissional
+## 👨‍💻 Experiência Profissional
 
 ### **Freedom Veículos Elétricos — Analista e Desenvolvedor**
 - Desenvolvimento de aplicações móveis **Android** utilizando **Flutter**
