@@ -6,19 +6,7 @@ Desenvolvedor com experiência em aplicações móveis, sistemas backend, integr
 
 ## 📫 Contato: <strong>caianferre@gmail.com</strong>
 
-## 🌐 Conecte-se comigo 
-
-<p align="center">
-  <a href="https://stackoverflow.com/users/caian-marcinkowski-ferreira" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/marcinkowski__" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/caian-marcinkowski-ferreira-bb541a137/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-</p>
+## 🌐 Conecte-se comigo <a href="https://stackoverflow.com/users/caian-marcinkowski-ferreira" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a><a href="https://instagram.com/marcinkowski__" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a><a href="https://www.linkedin.com/in/caian-marcinkowski-ferreira-bb541a137/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -28,7 +16,7 @@ Desenvolvedor com experiência em aplicações móveis, sistemas backend, integr
 |:--:|:--:|
 | **Back-end** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="35"/> |
 | **Bancos de Dados** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="35"/> |
-| **Mobile** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="35"/> |
+| **Mobile** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="35"/> |
 | **IoT & Hardware** | <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="35"/> |
 | **Versionamento, CI/CD & Testes** | <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="35"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="35"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="35"/> |
 
@@ -69,8 +57,7 @@ Eu sou um desenvolvedor apaixonado por tecnologia, com experiência em uma varie
 - Manutenção, otimização e consultas em bancos de dados **MySQL e PostgreSQL**
 - **Criação e desenvolvimento do aplicativo de gestão *FitoApp*** para a empresa **Fitolog**
   - Gestão completa de aplicativos na **Google Play Console**
-  - Link: https://play.google.com/store/apps/details?id=com.fitoapp&hl=pt_BR&gl=US
-
+ 
 ---
 
 ## Educação
