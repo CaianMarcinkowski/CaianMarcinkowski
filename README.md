@@ -4,9 +4,9 @@
 Desenvolvedor com experiência em aplicações móveis, sistemas backend, integração com hardware e publicação de apps na Google Play.
 </p>
 
-## 📫 Contato: <strong>caianferre@gmail.com</strong>
+## 📫 Contato: <br><br> <strong>caianferre@gmail.com</strong>
 
-## 🌐 Conecte-se comigo <a href="https://stackoverflow.com/users/caian-marcinkowski-ferreira" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a><a href="https://instagram.com/marcinkowski__" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a><a href="https://www.linkedin.com/in/caian-marcinkowski-ferreira-bb541a137/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+## 🌐 Conecte-se comigo <br> <br> <a href="https://stackoverflow.com/users/caian-marcinkowski-ferreira" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a><a href="https://instagram.com/marcinkowski__" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a><a href="https://www.linkedin.com/in/caian-marcinkowski-ferreira-bb541a137/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 
 ## 🛠️ Tecnologias & Ferramentas
 
