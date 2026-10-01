@@ -53,19 +53,6 @@
 
 ---
 
-## 🌟 Projetos em destaque · Featured projects
-
-<p align="center">
-  <a href="https://github.com/CaianMarcinkowski/pokedex-kotlin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CaianMarcinkowski&repo=pokedex-kotlin&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/CaianMarcinkowski/java-spring-postgresql-crud"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CaianMarcinkowski&repo=java-spring-postgresql-crud&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/CaianMarcinkowski/shopApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CaianMarcinkowski&repo=shopApp&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/CaianMarcinkowski/chatApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CaianMarcinkowski&repo=chatApp&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/CaianMarcinkowski/my_portifolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CaianMarcinkowski&repo=my_portifolio&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/CaianMarcinkowski/geolacation-android"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CaianMarcinkowski&repo=geolacation-android&theme=tokyonight&hide_border=true" /></a>
-</p>
-
----
-
 ## 🇧🇷 Português
 
 ### 💻 Sobre mim
