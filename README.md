@@ -79,7 +79,7 @@ Sou **Analista e Desenvolvedor de Sistemas** apaixonado por construir produtos q
 
 </details>
 
-<details>
+<details open>
 <summary><b>🔎 MAVEN</b> — Analista e Desenvolvedor</summary>
 <br>
 
@@ -91,7 +91,7 @@ Sou **Analista e Desenvolvedor de Sistemas** apaixonado por construir produtos q
 
 </details>
 
-<details>
+<details open>
 <summary><b>🌿 ECORE</b> — Especialista em TI</summary>
 <br>
 
